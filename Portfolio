@@ -1,0 +1,10 @@
+Portfolio/
+├── index.html        (Main home page)
+├── about.html        (About Me page)
+├── project1.html     (Project 1 page)
+├── project2.html     (Project 2 page)
+├── styles/           (CSS folder)
+│   ├── style.css     (Main stylesheet)
+├── scripts/          (JavaScript folder)
+│   ├── script.js     (Optional for interactivity)
+├── sketches/         (p5.js sketches if needed)
